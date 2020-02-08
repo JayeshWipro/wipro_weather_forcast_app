@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bagckgroud_transparent_border"
+    android:orientation="horizontal"
+    android:layout_margin="18dp"
+    android:weightSum="4">
+
+    <TextView
+        android:id="@+id/tv_weather_date"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/ptc_font"
+        android:padding="5dp"
+        android:gravity="center|center_horizontal"
+        android:text="dfsvglkjdflkg"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/tv_temp_max"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/ptc_font"
+        android:padding="5dp"
+        android:gravity="center|center_horizontal"
+        android:text="dfsvglkjdflkg"
+        android:textColor="@android:color/white" />
+
+    <TextView
+        android:id="@+id/tv_weather_desc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:layout_weight="1"
+        android:fontFamily="@font/ptc_font"
+        android:gravity="center|center_horizontal"
+        android:padding="5dp"
+        android:text="dfsvglkjdflkg"
+        android:textColor="@android:color/white" />
+
+    <ImageView
+        android:id="@+id/iv_weather_icon"
+        android:layout_width="121dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:gravity="center|left"
+        android:textColor="@android:color/white" />
+
+
+</LinearLayout>

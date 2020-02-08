@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.2.0/fd3a444cc7987b5fa2a60fabb116395ca2a4da1c/disklrucache-4.2.0.jar"
+        revision="25.0.3"
+        sha1="fd3a444cc7987b5fa2a60fabb116395ca2a4da1c">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/disklrucache-4.2.0-e8d9c51eb6e5237e3ccc314d79df312fbf5cac16.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.0.2/8b68a849722b44f584e2d68c451c5e3844c10380/support-annotations-26.0.2.jar"
+        revision="25.0.3"
+        sha1="8b68a849722b44f584e2d68c451c5e3844c10380">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-26.0.2-03c128a5ca39942b34ced7f08794e87af1f68513.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/7f48d50c3fdcf0147061fa784a55ba19ec9bb6cf/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-7390a5b9a5314a0754eccb0fb7757ff29afab457.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/4ec935a2e6f380f8af5f1b18852a7e7cc818d99b/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2880476cddf46ee7971a073a6d20abd3b5fb6711.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/90b0c7bb991061fb126a44b71d62be503faef895/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-01b8f39571c919e27a989da57cc5a902611e35a2.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/gifdecoder/4.2.0/f196283dab426e09559bfe7385f162b2b254cf72/gifdecoder-4.2.0.jar"
+        revision="25.0.3"
+        sha1="f196283dab426e09559bfe7385f162b2b254cf72">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gifdecoder-4.2.0-00326869fc45808904ffada0924ca04722812c89.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/Library/Android/sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-51574486db0799112a150db8e2711a7f6dee81fb.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/407efe1fbabcfdc5347953924482bde04cf99309/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-92685f870396d2f7a129005b08f6ab51c0652013.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/efd4cd9708bc364d95a957ba1e1c25dc54caa403/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-2f23369cbe66416b2d8834577ecaef4197324448.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/920f2ed3556ff69192b383e5ac850b6fdfb7993f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-5517a9e449c81888b57166bfd95997a98756a23b.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        revision="25.0.3"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/gson-2.7-3206ba5f0f2c03eae28149e9788ffc086e4a5906.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okio-1.13.0-00514c5d0ee9505cc9d481eaa4f70893edb8da38.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.1/381fc1096ba65040d8e80ea43b2e1d9bad02345e/logging-interceptor-3.4.1.jar"
+        revision="25.0.3"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/logging-interceptor-3.4.1-23758d327670eedc04c457999f03c4c8544b2218.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/retrofit-2.3.0-49b3b732ced606654c1c695ab6174c249ea8f83e.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/d836178306c9affaa013d807899d43d116ce86e1/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8c6723c5ba8e4c2ce8aa58d71377ee11336f3986.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.2.0/1d6fc29f2af61d8fdc31018416040c560423c4b3/annotations-4.2.0.jar"
+        revision="25.0.3"
+        sha1="1d6fc29f2af61d8fdc31018416040c560423c4b3">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/annotations-4.2.0-3cac99de41bab7396d773048474c84cc8cafdcb8.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/butterknife-annotations-8.8.1-b6166fd52ef7413d772ac3caa6249fe2617bd779.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/fe616f225b01c050de46271b6a59bf3296080a5f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c1566d9439afa7ef09524d7abaea1e2518fa7978.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/converter-gson-2.1.0-e6b3c49ce01bd97f38da225d266f6e526fe0a261.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.0.2/b9cd8fc6bd15cb915735d34535db30ece0c44603/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-94b6a10e8bc5b66cf63db8e62778374849c512e2.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/831af5d3cbb10930131ca272a098db0783f38b44/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3f5e192d7a356318822e50a72459b514ee33b093.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.0/5a11f020cce2d11eb71ba916700600e18c4547e7/okhttp-3.8.0.jar"
+        revision="25.0.3"
+        sha1="5a11f020cce2d11eb71ba916700600e18c4547e7">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/okhttp-3.8.0-a9ee42bb886cb20856664855d7082b554ecde4a7.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/071a051a68f1c6b7bccc01a49452ff14336d5976/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-200cda73f24fba032c8ba2ac48061c968f8e4885.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/Library/Android/sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-9f3b03c72d46bd474d6ea23f130c05c092946616.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/7113dfed011142e8eac9e3d5ad74422f2407683f/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-d1ade829dba37d27311a6df78c66b2952afc63b8.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/4.2.0/b76d4269b06b8bda96aac32342a05843b4c0be41/glide-4.2.0.jar"
+        revision="25.0.3"
+        sha1="b76d4269b06b8bda96aac32342a05843b4c0be41">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/glide-4.2.0-318d61fd890e55005f86dcdac51a08b1f950800f.jar" />
+    </item>
+    <item
+        jar="/Users/jayeshhiray/.android/build-cache/40b4d484b5dfd8ad64a237dbe110722b34473e54/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/jayeshhiray/Documents/wipro/Location-Weather-master/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-3a45bde9b9675fba0215303797629ff8b1c85af7.jar" />
+    </item>
+
+</items>
